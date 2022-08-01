@@ -57,7 +57,7 @@ theme.forEach((item)  => {
                 document.body.classList.add("salmonTheme");
                 break;
                 case "yellow" :
-                    document.body.classList.add ("yellowTheme");
+                    document.body.classList.add("yellowTheme");
                     break;
                     case "white" :
                         document.body.classList.add("whiteTheme");
